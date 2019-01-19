@@ -12,6 +12,7 @@ namespace GITapp
         {
             Console.WriteLine("Hello GIT");
             Console.WriteLine("Do you know how tu push your changes?");
+            Console.WriteLine("Yes, I do, but it wasn't easy");
             Console.ReadLine();
         }
     }
